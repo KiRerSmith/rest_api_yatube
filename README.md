@@ -1,3 +1,7 @@
+# REST API для YaTube
+
+### Технологии:
+``Python 3.7``; ``Django``; ``Django REST Framework``; ``SQLite``; ``Simple-JWT``
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
